@@ -350,13 +350,13 @@ Check all yt-dlp api options from this <a href='https://github.com/yt-dlp/yt-dlp
         rmsg = f'''
 Send Leech Prefix. Timeout: 60 sec
 Examples:
-1. <code>{escape('<b>@Z_Mirror</b>')}</code> 
+1. <code>{escape('<b>@MHDZubalR</b>')}</code> 
 This will give output of:
-<b>@Z_Mirror</b>  <code>69MB.bin</code>.
+<b>@MHDZubalR</b>  <code>69MB.bin</code>.
 
-2. <code>{escape('<code>@Z_Mirror</code>')}</code> 
+2. <code>{escape('<code>@MHDZubalR</code>')}</code> 
 This will give output of:
-<code>@Z_Mirror</code> <code>69MB.bin</code>.
+<code>@MHDZubalR</code> <code>69MB.bin</code>.
 
 Check all available formatting options <a href="https://core.telegram.org/bots/api#formatting-options">HERE</a>.
         '''
